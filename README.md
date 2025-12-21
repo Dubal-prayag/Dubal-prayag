@@ -5,3 +5,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dubal-prayag&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dubal-prayag&theme=radical)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dubal-prayag&theme=react-dark)
+
