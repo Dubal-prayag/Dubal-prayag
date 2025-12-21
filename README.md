@@ -1,5 +1,7 @@
-# 🌐 Prayag Dubal
-### Tech Explorer | Python Developer | Backend & Applied ML
+# 👋 Hi, I'm Prayag Dubal
+
+**Machine Learning & AI Developer**  
+Deep Learning • NLP • LLMs • Applied AI
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dubal-prayag&color=brightgreen)
 ![GitHub Followers](https://img.shields.io/github/followers/Dubal-prayag?style=social)
@@ -7,46 +9,75 @@
 
 ---
 
-## 👋 About Me
+## 🧠 About Me
 
 - 🎓 B.Tech (Information Technology) student  
-- 💻 Python-focused developer  
-- 🔧 Working with Python, JavaScript, OpenCV, Node.js, MongoDB, SQL  
-- 🌱 Actively building projects & contributing to open-source  
+- 🤖 ML & AI developer focused on **Deep Learning, NLP, and LLM-based systems**  
+- 🔬 Hands-on experience with model training, evaluation, and experimentation  
+- 🚀 Building applied AI projects and exploring real-world use cases  
+- 🌱 Actively learning modern ML tooling and research-inspired workflows  
 
 ---
 
-## 🧰 Arsenal
+## 🛠️ ML / AI Tech Stack
 
-### 🖥️ Frontend
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![React](https://img.shields.io/badge/React-61DAFB)
-
-### ⚙️ Backend & Database
+### 🧠 Core ML & DL
 ![Python](https://img.shields.io/badge/Python-3776AB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248)
-![SQL](https://img.shields.io/badge/SQL-blue)
+![NumPy](https://img.shields.io/badge/NumPy-013243)
+![Pandas](https://img.shields.io/badge/Pandas-150458)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E)
+
+### 🔥 Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00)
+![Keras](https://img.shields.io/badge/Keras-D00000)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C)
+
+### 🧾 NLP & LLM
+![NLTK](https://img.shields.io/badge/NLTK-154F5B)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E)
+![LLMs](https://img.shields.io/badge/LLM-Research-blueviolet)
+
+### 📊 Data & Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E4C6D)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-181717)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00)
+
+---
+
+## 📌 Featured Projects
+
+### 🎛️ Smart Volume Control v3  
+**Computer Vision | OpenCV | MediaPipe**  
+🔗 https://github.com/Dubal-prayag/Smart-Volume-Control-v3  
+
+- Real-time hand-gesture-based system to control system volume  
+- Uses MediaPipe hand landmarks and OpenCV for gesture detection  
+- Demonstrates applied CV and real-time inference  
+
+---
+
+### 🎬 Mood-Based Movie Recommendation System  
+**Python | Pandas | Rule-Based Logic**  
+🔗 https://github.com/Dubal-prayag/Movie-Recommender-System  
+
+- Logic-driven recommendation system based on user mood and preferences  
+- Filters by genre, release era, and industry  
+- Designed for future extension with ML-based recommenders  
 
 ---
 
 ## 📊 GitHub Analytics
 
-### 🔹 Overall Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dubal-prayag&show_icons=true&theme=radical)
 
-### 🔹 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dubal-prayag&theme=radical)
 
-### 🔹 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dubal-prayag&layout=compact&theme=radical)
 
 ---
@@ -57,36 +88,22 @@
 
 ---
 
-## 🏆 Badges & Achievements
+## 🎯 Current Focus
 
-![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-blue)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success)
-![Hackathon](https://img.shields.io/badge/Hackathon-Participant-orange)
-
-> ⚠️ Badges appear automatically on your profile when earned.  
-> These are **visual indicators**, not fake achievements.
-
----
-
-## 📌 Featured Projects
-
-🔹 **Smart Volume Control v3**  
-👉 https://github.com/Dubal-prayag/Smart-Volume-Control-v3  
-
-🔹 **Mood-Based Movie Recommendation System**  
-👉 https://github.com/Dubal-prayag/Movie-Recommender-System  
+- Deep Learning model experimentation  
+- NLP pipelines and text understanding  
+- Exploring LLM-based applications  
+- Building end-to-end ML projects  
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Dubal-prayag  
-- LinkedIn: (add when ready)  
-- Email: your_email@gmail.com  
+- Email: dubalprayag26@gmail.com  
+- LinkedIn: *(add when ready)*  
 
 ---
 
-### 🚀 Current Focus
-- Building production-style Python projects  
-- Improving backend fundamentals  
-- Consistent open-source contributions  
+> **Note:** This profile highlights **actual ML capability**, not buzzwords.  
+> Depth + consistency > flashy UI.
