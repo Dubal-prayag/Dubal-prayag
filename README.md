@@ -1,91 +1,92 @@
-👋 Hi, I’m Prayag Dubal
+# 🌐 Prayag Dubal
+### Tech Explorer | Python Developer | Backend & Applied ML
 
-Python Developer | Backend & Applied ML
-B.Tech (Information Technology)
+![Profile Views](https://komarev.com/ghpvc/?username=Dubal-prayag&color=brightgreen)
+![GitHub Followers](https://img.shields.io/github/followers/Dubal-prayag?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Dubal-prayag?style=social)
 
-🧠 About Me
+---
 
-💻 Python-focused developer with interest in backend systems and applied machine learning
+## 👋 About Me
 
-🔧 Hands-on experience with Python, JavaScript, OpenCV, and data-driven projects
+- 🎓 B.Tech (Information Technology) student  
+- 💻 Python-focused developer  
+- 🔧 Working with Python, JavaScript, OpenCV, Node.js, MongoDB, SQL  
+- 🌱 Actively building projects & contributing to open-source  
 
-🚀 Actively building projects and improving through real-world implementation
+---
 
-🌱 Learning by shipping, debugging, and iterating — not just watching tutorials
+## 🧰 Arsenal
 
-🛠️ Tech Stack
+### 🖥️ Frontend
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-61DAFB)
 
-Languages
+### ⚙️ Backend & Database
+![Python](https://img.shields.io/badge/Python-3776AB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248)
+![SQL](https://img.shields.io/badge/SQL-blue)
 
-Python, C, C++
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626)
 
-Libraries & Frameworks
+---
 
-NumPy, Pandas, Scikit-learn
+## 📊 GitHub Analytics
 
-OpenCV, MediaPipe
+### 🔹 Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dubal-prayag&show_icons=true&theme=radical)
 
-Web & Databases
+### 🔹 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Dubal-prayag&theme=radical)
 
-JavaScript, React, Node.js
+### 🔹 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dubal-prayag&layout=compact&theme=radical)
 
-MongoDB, SQL
+---
 
-Tools
+## 📈 Contribution Graph
 
-Git, GitHub
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dubal-prayag&theme=react-dark)
 
-Jupyter Notebook, Google Colab
+---
 
-📌 Featured Projects
-🎛️ Smart Volume Control v3
+## 🏆 Badges & Achievements
 
-Python · OpenCV · MediaPipe
-🔗 https://github.com/Dubal-prayag/Smart-Volume-Control-v3
+![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-blue)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success)
+![Hackathon](https://img.shields.io/badge/Hackathon-Participant-orange)
 
-Built a real-time hand-gesture-based system to control system volume
+> ⚠️ Badges appear automatically on your profile when earned.  
+> These are **visual indicators**, not fake achievements.
 
-Used MediaPipe hand landmarks and OpenCV for gesture detection
+---
 
-Mapped finger distance to dynamic volume levels with low latency
+## 📌 Featured Projects
 
-Demonstrates applied computer vision and human–computer interaction
+🔹 **Smart Volume Control v3**  
+👉 https://github.com/Dubal-prayag/Smart-Volume-Control-v3  
 
-🎬 Mood-Based Movie Recommendation System
+🔹 **Mood-Based Movie Recommendation System**  
+👉 https://github.com/Dubal-prayag/Movie-Recommender-System  
 
-Python · Pandas
-🔗 https://github.com/Dubal-prayag/Movie-Recommender-System
+---
 
-Developed a rule-based recommendation system driven by user mood and preferences
+## 📫 Connect With Me
 
-Implemented filtering on genre, release era (old/new), and industry
+- GitHub: https://github.com/Dubal-prayag  
+- LinkedIn: (add when ready)  
+- Email: your_email@gmail.com  
 
-Focused on clean logic design and personalized user experience
+---
 
-Designed with extensibility for future ML-based recommendations
-
-📊 GitHub Stats
-
-🏆 Achievements & Experience
-
-🤖 AI/ML Intern — Appifly Infotech (May 2025 – July 2025)
-
-🏅 Participant — Smart India Hackathon (2024 & 2025)
-
-📜 College-Level Certificate for Hackathon Participation
-
-📫 Connect With Me
-
-GitHub: https://github.com/Dubal-prayag
-
-LinkedIn: (add when ready)
-
-Email: dubalprayag26@gmail.com
-
-📌 Current Focus
-
-Strengthening backend fundamentals
-
-Building production-style Python projects
-
-Preparing for internships and entry-level software roles
+### 🚀 Current Focus
+- Building production-style Python projects  
+- Improving backend fundamentals  
+- Consistent open-source contributions  
