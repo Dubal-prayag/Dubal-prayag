@@ -101,9 +101,7 @@ Deep Learning • NLP • LLMs • Applied AI
 
 - GitHub: https://github.com/Dubal-prayag  
 - Email: dubalprayag26@gmail.com  
-- LinkedIn: *(add when ready)*  
+- LinkedIn: https://linkedin.com/in/prayag-dubal
 
 ---
 
-> **Note:** This profile highlights **actual ML capability**, not buzzwords.  
-> Depth + consistency > flashy UI.
